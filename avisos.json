@@ -4,17 +4,5 @@
     "titulo": "O app está com a cara nova.",
     "texto": "Agora tem abas no topo, tema claro e escuro seguindo o Windows, e a tela de Abrir Chamado foi refeita. Se algo parecer estranho, avise a TI.",
     "ate": "2026-09-30"
-  },
-  {
-    "id": "teste-v0160-abrir-chamado",
-    "titulo": "[TESTE] Problema com a impressora? Abra um chamado pelo app",
-    "texto": "Aviso de teste da v0.16.0 (só aparece no ambiente de TESTE). O botão abaixo leva direto ao formulário de abrir chamado.",
-    "tipo": "Instrução",
-    "acao": "Abrir chamado",
-    "data": "2026-10-05",
-    "ate": "2026-10-12",
-    "ambientes": [
-      "TESTE"
-    ]
   }
 ]
